@@ -15,6 +15,7 @@
   - String Manipulation
   - Basic Memory Management
 - **Status:** ✅ Completed
+- view certificate! - https://github.com/MOHITH4W5/certificates/blob/main/software-engineering-certifications/Cisco%20Networking%20Academy%20-%20C%2B%2B%20Essentials%201.jpeg
 
 ---
 
@@ -38,6 +39,7 @@
 - **Director:** gowthami C N (Maharaja Institute Of Technology, Thandavapura)
 - **Status:** ✅ Completed
 - **Note:** Part of Spoken Tutorial initiative by IIT Bombay, funded by National Mission on Education through ICT (MMEICT), Ministry of Education, Government of India
+- view certificate! - https://github.com/MOHITH4W5/certificates/blob/main/software-engineering-certifications/IIT%20Bombay%20-%20Linux%20Training.jpeg
 
 ---
 
