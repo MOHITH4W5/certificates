@@ -18,7 +18,7 @@
 
 ---
 
-## EduPyramids / Spoken Tutorial - Linux Training
+## IIT Bombay - Linux Training
 
 - **Certificate Name:** Linux Test (Spoken Tutorial)
 - **Organization:** EduPyramids, SINE, IIT Bombay
